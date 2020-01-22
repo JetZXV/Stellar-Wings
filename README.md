@@ -2,5 +2,6 @@
 Our VR space shooting game for CS 458
 
 Members:
-Alex Huzil
-Viktor Fries
+Alex Huzil,
+Viktor Fries,
+Jared Thompson
